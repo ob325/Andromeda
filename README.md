@@ -41,7 +41,7 @@ close(bigData)
 
 Technology
 ==========
-The Andromeda package is an R package wrapped around RSQLite.
+The Andromeda package is an R package wrapped around DuckDB.
 
 System Requirements
 ===================
